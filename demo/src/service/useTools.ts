@@ -1,7 +1,8 @@
 //@ts-nocheck
 import { ref } from 'vue'
-
+// 导入 viewer sdk
 import Viewer from 'nsdt-3dconvert-viewer'
+
 
 export const ViewerEvent = {
   ObjectClicked: 'object-clicked',
