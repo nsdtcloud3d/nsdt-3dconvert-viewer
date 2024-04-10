@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <g id="BIM编辑器" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2" transform="translate(-12.000000, -14.000000)">
+            <g id="编组" transform="translate(12.000000, 14.000000)">
+                <g id="logo" transform="translate(21.213203, 21.213203) rotate(-45.000000) translate(-21.213203, -21.213203) translate(6.213203, 6.213203)">
+                    <path d="M2,30 C0.8954305,30 1.5999735e-13,29.1045695 1.5999735e-13,28 L1.5999735e-13,19.6335878 C1.5999735e-13,18.5290183 0.8954305,17.6335878 2,17.6335878 L17.633,17.633 L17.6335878,2 C17.6335878,0.8954305 18.5290183,2.02906125e-16 19.6335878,0 L28,0 C29.1045695,-2.02906125e-16 30,0.8954305 30,2 L30,28 C30,29.0543618 29.1841222,29.9181651 28.1492623,29.9945143 L28,30 L28,30 L2,30 Z" id="形状结合" fill="#0048A3"></path>
+                    <rect id="矩形" fill="#82D1FC" x="1.50439957e-13" y="2.0058661e-13" width="16.2268266" height="16.2268266" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

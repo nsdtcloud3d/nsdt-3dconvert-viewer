@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <g id="界面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo备份" transform="translate(512.000000, 512.000000) rotate(-45.000000) translate(-512.000000, -512.000000) translate(154.000000, 154.000000)" fill="#FFFFFF">
+            <path d="M714,0 C715.104569,-2.02906125e-16 716,0.8954305 716,2 L716,714 C716,715.104569 715.104569,716 714,716 L422.854962,716 L422.829,715.999 L2,716 C0.8954305,716 1.13686838e-13,715.104569 0,714 L0,422.854962 C1.13686838e-13,421.750392 0.8954305,420.854962 2,420.854962 L420.854,420.854 L420.854962,2 C420.854962,0.8954305 421.750392,2.02906125e-16 422.854962,0 L714,0 Z" id="形状结合"></path>
+            <rect id="矩形" x="12.1522369" y="12.1522369" width="324" height="324" rx="2"></rect>
+        </g>
+    </g>
+</svg>

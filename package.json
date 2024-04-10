@@ -1,0 +1,37 @@
+{
+  "name": "nsdt-3dconvert-viewer",
+  "version": "1.0.7",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "description": "3D模型在线预览，基于3dconvert的3D Viewer组件。3D模型在线转换。",
+  "homepage": "https://3dconvert.nsdt.cloud",
+  "author": {
+    "name": "nsdt",
+    "url": "https://3dconvert.nsdt.cloud/convert/docapi/viewerjs/start.html"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nsdtcloud3d/nsdt-3dconvert-viewer"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "3dconvert",
+    "viewer",
+    "three.js",
+    "3D模型在线展示",
+    "3D模型在线转换",
+    "stp viewer",
+    "GLB, GLTF, PLY, STL, OBJ, OFF, DAE, FBX, DXF, IFC, XYZ, PCD, LAS, LAZ, STP, STEP, 3DXML, IGES, IGS, SHP, GEOJSON, XAML, PTS, ASC, BREP, FCSTD, BIM, USDZ, PDB, VTK, SVG, WRL, 3DM, 3DS, AMF, 3MF, DWG"
+  ],
+  "devDependencies": {
+    "eslint": "^1.4.1"
+  },
+  "dependencies": {
+   
+  }
+}
