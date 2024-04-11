@@ -40,7 +40,7 @@ import Viewer from 'nsdt-3dconvert-viewer';
 
 ```html
 ...
- <div id="viewer-container"></div>
+ <div id="viewer-container" style="width: 100%;height: 600px;border: 1px solid #000;"></div>
 ...
 ```
 
@@ -308,7 +308,7 @@ toggleSectionBox(): void
 
 #### 光照控制
 
-**设置光照**
+设置光照
 
 ```tsx
 setLightConfiguration(config: LightConfiguration): void
