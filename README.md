@@ -558,6 +558,12 @@ npm run dev
 
 访问 `http://localhost:5175`
 
+## 去除背景水印（可选）
+
+如果你希望去除背景中的水印（nsdt.cloud），在模型内嵌对话框中点击【去除水印】即可，如下图所示：
+
+![demopage](https://3dconvert.nsdt.cloud/convert/docapi/watermark.png)
+
 ## 联系我们
 
 如果有SDK**使用**上的疑问或者需要对**SDK功能进行个性化的扩展**，请联系我们
