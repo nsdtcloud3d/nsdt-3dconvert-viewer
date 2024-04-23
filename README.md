@@ -564,6 +564,10 @@ npm run dev
 
 ![demopage](https://3dconvert.nsdt.cloud/convert/docapi/watermark.png)
 
+或者进入【我的工作台】，在【我的上传】中找到对应的文件，点击【去水印】即可，如下图所示：
+
+![demopage](https://3dconvert.nsdt.cloud/convert/docapi/watermarkspace.png)
+
 ## 联系我们
 
 如果有SDK**使用**上的疑问或者需要对**SDK功能进行个性化的扩展**，请联系我们

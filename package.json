@@ -1,6 +1,6 @@
 {
   "name": "nsdt-3dconvert-viewer",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "main": "lib/index.js",
   "module": "lib/index.js",
   "description": "3D模型在线预览，基于3dconvert的3D Viewer组件。3D模型在线转换。",
